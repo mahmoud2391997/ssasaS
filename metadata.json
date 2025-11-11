@@ -1,0 +1,5 @@
+{
+  "name": "GuestPortal Admin Panel",
+  "description": "A simple and clean admin panel to manage hotel rooms and reservations, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
